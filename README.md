@@ -21,7 +21,6 @@ Wie kann mit Hilfe des CAPM bestimmt werden, welche Kryptowährungen unter Berü
 6.	Beispiel: Ermittlung von Rentenendwert mit erwarteten Renditen
 
 <br>
-<br>
 
 
 Erwartete Renditen: 

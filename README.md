@@ -1,6 +1,5 @@
 # Datenanalyse: Anwendung des CAPM zur Bestimmung der erwartenden Renditen von Kryptowährungen
 
-<br>
 
 ## Jupyter Notebook: ![Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Quellencode und Details")
 <br>

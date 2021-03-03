@@ -1,5 +1,10 @@
 # Datenanalyse: Anwendung des CAPM zur Bestimmung der erwartenden Renditen von Kryptowährungen
 
+<br>
+
+## Jupyter Notebook: ![Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Quellencode und Details")
+<br>
+
 **Ausganglage**:<br> 
 Kryptowährungen sind sehr volatil und damit risikoreich. Es können hohe Gewinne als auch hohe Verluste realisiert werden.
 
@@ -15,12 +20,6 @@ Wie kann mit Hilfe des CAPM bestimmt werden, welche Kryptowährungen unter Berü
 4.	Erwartete Renditen werden mit dem **CAPM** berechnet
 5.	Risiken und Renditen der Kryptowährungen werden bestimmt
 6.	Beispiel: Ermittlung von Rentenendwert mit erwarteten Renditen
-<br>
-
-
-# Jupyter Notebook: ![Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Quellencode und Details")
-<br>
-<br>
 
 
 Erwartete Renditen: 

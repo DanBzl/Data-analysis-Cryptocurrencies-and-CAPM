@@ -17,18 +17,20 @@ Wie kann mit Hilfe des CAPM bestimmt werden, welche Kryptowährungen unter Berü
 6.	Beispiel: Ermittlung von Rentenendwert mit erwarteten Renditen
 
 
+<br>
 ### Jupyter Notebook: ![Quellencode & Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Quellencode & Details")
+<br>
 
 
 Erwartete Renditen: 
 ![Erwartete Renditen](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/erwarteteRenditenAlsBalkenDiagramm.jpg "Erwartete Renditen")
 
-Beta: Systematisches Risiko: 
+Systematisches Risiko als Beta: 
 ![Beta: Systematisches Risiko](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/kryptoMarktRisiko.jpg "Beta: Systematisches Risiko")
 
 
 
-Autor and Coder: Dan Mpindi Bazola
+Autor and Coder: Dan Mpindi Bazola<br>
 Reviewer: Vincent Maiorana
 
 Copyright © 2021 Dan Mpindi Bazola

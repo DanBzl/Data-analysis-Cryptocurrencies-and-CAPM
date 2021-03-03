@@ -16,8 +16,10 @@ Wie kann mit Hilfe des CAPM bestimmt werden, welche Kryptowährungen unter Berü
 5.	Risiken und Renditen der Kryptowährungen werden bestimmt
 6.	Beispiel: Ermittlung von Rentenendwert mit erwarteten Renditen
 
+<br>
 
-### Jupyter Notebook: ![Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Quellencode und Details")
+
+# Jupyter Notebook: ![Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Quellencode und Details")
 <br>
 
 

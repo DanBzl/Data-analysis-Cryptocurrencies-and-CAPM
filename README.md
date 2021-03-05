@@ -18,7 +18,6 @@ Wie kann mit Hilfe des CAPM bestimmt werden, welche Kryptowährungen unter Berü
 3.	Daten werden in ein analysefähiges Dataframe transformiert
 4.	Erwartete Renditen werden mit dem **CAPM** berechnet
 5.	Risiken und Renditen der Kryptowährungen werden bestimmt
-6.	Beispiel: Ermittlung von Rentenendwert mit erwarteten Renditen
 
 <br>
 

@@ -4,7 +4,9 @@
 ## ![Zum Jupyter Notebook: Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Zum Jupyter Notebook: Quellencode und Details")
 <br>
 
-Hinweis: <span style="color:red;font-size:10px;">Es geht hier lediglich um das systematische Risiko. Die Ermittlung der Renditeerwartung eines Portfolios ist der nächste Schritt.</span>
+```diff
+- Hinweis: Es geht hier lediglich um das systematische Risiko. Die Ermittlung der Renditeerwartung eines Portfolios ist der nächste Schritt.
+```
 
 **Ausganglage**:<br> 
 Kryptowährungen sind sehr volatil und damit risikoreich. Es können hohe Gewinne als auch hohe Verluste realisiert werden.

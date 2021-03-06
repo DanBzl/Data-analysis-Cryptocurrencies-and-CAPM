@@ -4,7 +4,7 @@
 ## ![Zum Jupyter Notebook: Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Zum Jupyter Notebook: Quellencode und Details")
 <br>
 
-Hinweis: <span style="color:red;size:10px;">Es geht hier lediglich um das systematische Risiko. <br>
+Hinweis: <span style="color:red;font-size:10px;">Es geht hier lediglich um das systematische Risiko. <br>
 Die Ermittlung der Renditeerwartung eines Portfolios ist der nächste Schritt.</span>
 
 **Ausganglage**:<br> 

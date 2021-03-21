@@ -36,6 +36,10 @@ Systematisches Risiko als Beta:
 
 <br>
 <br>
+
+## ![Zum Jupyter Notebook: Quellencode und Details](https://github.com/DanBzl/Data-analysis-Cryptocurrencies-and-CAPM/blob/main/Data%20analysis%20-%20Cryptocurrency%20with%20CAPM.ipynb "Zum Jupyter Notebook: Quellencode und Details")
+<br>
+<br>
 <br>
 
 
